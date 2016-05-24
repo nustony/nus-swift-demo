@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Sample Code
+
+  Created by NUS Technology on 1/16/15.
+  Copyright (c) 2015 Sample Code. All rights reserved.
+*/
+// Common
+"error"                                     = "Error";
+"ok"                                        = "OK";
+"submit"                                    = "Submit";
+"cancel"                                    = "Cancel";
+"blankEmailMsg"                             = "Email can't be blank";
+"invalidEmailMsg"                           = "Email is invalid";
+"blankPasswordMsg"                          = "Password can't be blank";
+"invalidMininumLengthPasswordMsg"           = "Password is too short (minimum of 6 characters)";
+"invalidConfirmMsg"                         = "Password doesn't match confirmation";
+
+// Credit Card View
+"cardNumber"                                = "Card Number";
+"expirationDate"                            = "Expiration Date";
+"cvc"                                       = "CVC";
+
+// Sign IN
+"lackInputParameter"                        = "Please fill out all information and then continue.";
+"loginFailedTitle"                          = "Login Failed";
+"incorrectUserNameOrPassword"               = "Incorrect \nUsername or Password";
+"password"                                  = "Password";
+"email"                                     = "Email";
+
+// Forgot password
+"sentEmailSuccessTitle"                     = "Sent Email Successfully";
+"checkEmailInformForResetPassword"          = "Please check your email for reset password instructions.";
+"forgotPasswordTitle"                       = "Forgot Password";
+
+// Sign Up
+"confirmPassword"                           = "Confirm Password";
+"signUpTitle"                               = "Sign Up";

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Staging</key>
+	<dict>
+		<key>flurryAPIKey</key>
+		<string>YBJDFBP2DXGPF8BNVC2B</string>
+		<key>crittercismAppID</key>
+		<string>54b7222c51de5e9f042ecc49</string>
+	</dict>
+	<key>Default</key>
+	<dict>
+		<key>apiBaseURL</key>
+		<string>http://beta.sample.com/api/v1</string>
+		<key>clientID</key>
+		<string>jvlioy01lk39de7vthljdm2rf8xf0jd</string>
+		<key>clientSecret</key>
+		<string>qblbnf1p17vjpt108oj3cb82p6i13kt</string>
+		<key>flurryAPIKey</key>
+		<string>YBJDFBP2DXGPF8BNVC2B</string>
+		<key>crittercismAppID</key>
+		<string>54b7222c51de5e9f042ecc49</string>
+	</dict>
+	<key>Release</key>
+	<dict>
+		<key>apiBaseURL</key>
+		<string>http://beta.sample.com/api/v1</string>
+		<key>clientID</key>
+		<string>jvlioy01lk39de7vthljdm2rf8xf0jd</string>
+		<key>clientSecret</key>
+		<string>qblbnf1p17vjpt108oj3cb82p6i13kt</string>
+		<key>flurryAPIKey</key>
+		<string>YBJDFBP2DXGPF8BNVC2B</string>
+		<key>crittercismAppID</key>
+		<string>54b7222c51de5e9f042ecc49</string>
+	</dict>
+</dict>
+</plist>
